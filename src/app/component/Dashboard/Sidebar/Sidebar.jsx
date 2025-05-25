@@ -25,7 +25,7 @@ function Sidebar({ role = "superadmin" }) {
         icon: <FiShoppingCart />,
         submenu: [
           { name: "All Products", href: "/dashboard/superadmin/products" },
-          { name: "Create", href: "/dashboard/superadmin/products/create" },
+          { name: "Create", href: "/dashboard/superadmin/products/new" },
         ],
       },
       {
@@ -34,7 +34,7 @@ function Sidebar({ role = "superadmin" }) {
         icon: <FiShoppingCart />,
         submenu: [
           { name: "All Categories", href: "/dashboard/superadmin/categories" },
-          { name: "Create", href: "/dashboard/superadmin/categories/create" },
+          { name: "Create", href: "/dashboard/superadmin/categories/new" },
         ],
       },
       {
@@ -43,8 +43,13 @@ function Sidebar({ role = "superadmin" }) {
         icon: <FiShoppingCart />,
         submenu: [
           { name: "All Shops", href: "/dashboard/superadmin/shops" },
-          { name: "Create", href: "/dashboard/superadmin/shops/create" },
+          { name: "Create", href: "/dashboard/superadmin/shops/new" },
         ],
+      },
+      {
+        name: "Notifications",
+        href: "/dashboard/superadmin/notifications",
+        icon: <FiDollarSign />,
       },
       {
         name: "Orders",
@@ -62,7 +67,8 @@ function Sidebar({ role = "superadmin" }) {
         icon: <FiUsers />,
         submenu: [
           { name: "Admin", href: "/dashboard/superadmin/admins" },
-          { name: "Salesmen", href: "/dashboard/superadmin/salesmen" },
+          { name: "Salesmen", href: "/dashboard/superadmin/salesmens" },
+          { name: "Add User", href: "/dashboard/superadmin/users/new" },
         ],
       },
       {
@@ -94,6 +100,11 @@ function Sidebar({ role = "superadmin" }) {
         icon: <FiShoppingCart />,
       },
       {
+        name: "Notifications",
+        href: "/dashboard/admin/notifications",
+        icon: <FiDollarSign />,
+      },
+      {
         name: "Orders",
         href: "/dashboard/admin/orders",
         icon: <FiDollarSign />,
@@ -117,6 +128,11 @@ function Sidebar({ role = "superadmin" }) {
     ],
     salesman: [
       { name: "Dashboard", href: "/dashboard/salesman", icon: <FiHome /> },
+      {
+        name: "Notifications",
+        href: "/dashboard/salesman/notifications",
+        icon: <FiDollarSign />,
+      },
       {
         name: "Assigned Orders",
         href: "dashboard/salesman/assigned-orders",

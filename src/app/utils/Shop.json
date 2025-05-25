@@ -1,0 +1,102 @@
+[
+  {
+    "name": "SuperMart Express",
+    "description": "Your daily needs, delivered fast and fresh. Groceries, household items, and more.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Fashion Fiesta",
+    "description": "Trendy apparel for men and women. Stay stylish with our latest collections.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Tech Gadget Hub",
+    "description": "All the latest electronics, smartphones, laptops, and accessories. Innovation at your fingertips.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Book Nook Cafe",
+    "description": "A cozy spot for book lovers. Grab a coffee and explore our extensive book collection.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Fresh Greens Produce",
+    "description": "Organic and locally sourced fruits and vegetables. Healthy living starts here.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Home Decor Haven",
+    "description": "Transform your living space with our unique home decor items. Furniture, art, and accents.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Sporting Goods Zone",
+    "description": "Everything for your active lifestyle. Sports equipment, apparel, and accessories.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Jewelcraft Creations",
+    "description": "Exquisite handcrafted jewelry. Rings, necklaces, earrings for every occasion.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Pet Paradise Store",
+    "description": "All your pet's needs under one roof. Food, toys, grooming supplies, and more.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Artisan Bakery & Cafe",
+    "description": "Freshly baked bread, pastries, and delicious coffee. A taste of homemade goodness.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Car Parts Pro",
+    "description": "High-quality car parts and accessories for all makes and models. Keep your ride running smooth.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Garden & Grow Supplies",
+    "description": "Everything for your garden. Plants, tools, seeds, and outdoor decor.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Musical Instruments Loft",
+    "description": "Guitars, pianos, drums, and more. Unleash your inner musician.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Crafty Corner Supplies",
+    "description": "Your one-stop shop for all crafting needs. Fabrics, paints, beads, and DIY kits.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Health & Wellness Mart",
+    "description": "Vitamins, supplements, organic products, and personal care items for a healthier you.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Kids' Toy Wonderland",
+    "description": "A magical world of toys for all ages. Educational games, action figures, and dolls.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Outdoor Adventure Gear",
+    "description": "Gear up for your next adventure. Camping equipment, hiking boots, and outdoor apparel.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Vintage Treasures Emporium",
+    "description": "Discover unique vintage finds. Antiques, collectibles, and retro fashion.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Coffee Bean Roasters",
+    "description": "Premium coffee beans from around the world. Freshly roasted and delivered to your door.",
+    "image": "/shop.jpg"
+  },
+  {
+    "name": "Digital Art Studio",
+    "description": "Digital art prints, custom illustrations, and design services. Bring your ideas to life.",
+    "image": "/shop.jpg"
+  }
+]
