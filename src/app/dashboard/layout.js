@@ -3,11 +3,11 @@ import Topbar from "../component/Dashboard/Topbar/Topbar";
 
 export default function RootLayout({ children }) {
   return (
-    <div className="flex">
-      <div className="w-1/6">
+    <div className="flex gap-4 m-auto">
+      <div className="w-1/6 block">
         <Sidebar />
       </div>
-      <div className="w-5/6">
+      <div className="w-5/6 block">
         <div>
           <Topbar />
         </div>
