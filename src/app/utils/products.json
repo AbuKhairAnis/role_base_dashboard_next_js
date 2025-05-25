@@ -14,7 +14,13 @@
     "colors": ["Green", "Blue"],
     "categories": ["3b42df0e-fd68-4c5c-99fd-ee51b004cd31"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 81,
     "unit": "kg",
     "variants": [],
@@ -73,7 +79,13 @@
       "e3ad9c0e-4f87-4d06-b6df-f51f9742bb5f"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 52,
     "unit": "kg",
     "variants": [],
@@ -129,7 +141,13 @@
     "colors": ["Red"],
     "categories": ["ab79b59e-a3c2-4ac8-864d-762060d94933"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 60,
     "unit": "kg",
     "variants": [],
@@ -185,7 +203,13 @@
     "colors": ["Red"],
     "categories": ["06c5d6d4-c33c-41a5-9785-14b7a4a59877"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 84,
     "unit": "packet",
     "variants": [],
@@ -244,7 +268,13 @@
       "b594c38b-138e-4b89-9ec9-8722981959b7"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 54,
     "unit": "packet",
     "variants": [],
@@ -303,7 +333,13 @@
       "17dac62f-f66d-48da-953f-aac481ddcca7"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 60,
     "unit": "pcs",
     "variants": [],
@@ -362,7 +398,13 @@
       "49b2d3b6-d7c4-4398-a26d-4db8520350be"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 95,
     "unit": "pcs",
     "variants": [],
@@ -418,7 +460,13 @@
     "colors": ["Red", "Blue", "Black"],
     "categories": ["10b62c62-1628-4cda-a2b1-240f2e9f3c96"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 79,
     "unit": "pcs",
     "variants": [],
@@ -477,7 +525,13 @@
       "307269b6-ab67-4e12-8474-8a6e9cec0b5d"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 14,
     "unit": "kg",
     "variants": [],
@@ -533,7 +587,13 @@
     "colors": ["Blue"],
     "categories": ["77b658d4-0775-4f6d-bb6c-6837ae41a475"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 28,
     "unit": "pcs",
     "variants": [],
@@ -592,7 +652,13 @@
       "299e38e2-4802-4e69-9635-73a8190330d4"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 81,
     "unit": "packet",
     "variants": [],
@@ -648,7 +714,13 @@
     "colors": ["Green", "Black", "Red"],
     "categories": ["ecedf4f3-39e6-4452-a76d-dc02d64ea869"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 71,
     "unit": "pcs",
     "variants": [],
@@ -707,7 +779,13 @@
       "056e1911-48ad-46d9-b0eb-78873dff9b7f"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 21,
     "unit": "packet",
     "variants": [],
@@ -763,7 +841,13 @@
     "colors": ["Black"],
     "categories": ["a6fa2004-f693-4483-b358-143d21e1039a"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 47,
     "unit": "kg",
     "variants": [],
@@ -822,7 +906,13 @@
       "618526fb-44c6-4051-b1aa-0074136beb63"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 2,
     "unit": "packet",
     "variants": [],
@@ -878,7 +968,13 @@
     "colors": ["Red", "Blue"],
     "categories": ["3a984415-79d2-47fe-aa12-257ccfb07501"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 64,
     "unit": "box",
     "variants": [],
@@ -934,7 +1030,13 @@
     "colors": ["Blue", "Black", "Red"],
     "categories": ["4297f2a5-8d35-4b21-b67e-5af49d8bbe6a"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 21,
     "unit": "box",
     "variants": [],
@@ -993,7 +1095,13 @@
       "87221190-95bf-4e05-a8d0-96f8e8f12050"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 31,
     "unit": "box",
     "variants": [],
@@ -1049,7 +1157,13 @@
     "colors": ["Black", "Blue", "Red"],
     "categories": ["ae4e3764-bf64-48a5-9039-ea61b1e9f05a"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 66,
     "unit": "box",
     "variants": [],
@@ -1108,7 +1222,13 @@
       "9057da1b-9e24-4e74-b10d-18018c27d475"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 4,
     "unit": "packet",
     "variants": [],
@@ -1164,7 +1284,13 @@
     "colors": ["Green", "Red", "Black"],
     "categories": ["fb40829b-c096-4782-981d-ec8e2fb38c09"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 12,
     "unit": "pcs",
     "variants": [],
@@ -1220,7 +1346,13 @@
     "colors": ["Red", "Green", "Blue"],
     "categories": ["166a6c0c-409c-4fa6-891c-e2edfe8cd76f"],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 80,
     "unit": "box",
     "variants": [],
@@ -1279,7 +1411,13 @@
       "df69dfd5-feb8-4071-a7a4-b0d40ec0d59c"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 43,
     "unit": "kg",
     "variants": [],
@@ -1338,7 +1476,13 @@
       "bd395730-ff5f-4f18-b2cf-d43585ed28e6"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 66,
     "unit": "pcs",
     "variants": [],
@@ -1397,7 +1541,13 @@
       "9cf6ff14-4f01-43f8-889d-2ef5de446598"
     ],
     "thumbnail": "/phone.jpg",
-    "images": [],
+    "images": [
+      "/product 1.jpg",
+      "/product 2.jpg",
+      "/product 3.jpg",
+      "/product 4.jpg",
+      "/product 5.jpg"
+    ],
     "stock": 27,
     "unit": "kg",
     "variants": [],
