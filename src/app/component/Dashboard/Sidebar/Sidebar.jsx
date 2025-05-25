@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
-import { useState } from "react";
+import { redirect, usePathname } from "next/navigation";
+import { useEffect, useState } from "react";
 import {
   FiChevronDown,
   FiChevronRight,
@@ -12,7 +12,16 @@ import {
   FiShoppingCart,
   FiUsers,
 } from "react-icons/fi";
-function Sidebar({ role = "superadmin" }) {
+function Sidebar() {
+  const [role, setRole] = useState("");
+
+  useEffect(() => {
+    const storedRole = localStorage.getItem("role");
+    if (storedRole) {
+      setRole(storedRole);
+    }
+  }, []);
+
   const pathname = usePathname();
   const [expandedMenus, setExpandedMenus] = useState({});
 
@@ -67,7 +76,7 @@ function Sidebar({ role = "superadmin" }) {
         icon: <FiUsers />,
         submenu: [
           { name: "Admin", href: "/dashboard/superadmin/admins" },
-          { name: "Salesmen", href: "/dashboard/superadmin/salesmens" },
+          { name: "Salesman", href: "/dashboard/superadmin/salesmans" },
           { name: "Add User", href: "/dashboard/superadmin/users/new" },
         ],
       },
@@ -111,7 +120,7 @@ function Sidebar({ role = "superadmin" }) {
       },
       {
         name: "Salesmen",
-        href: "/dashboard/admin/salesmens",
+        href: "/dashboard/admin/salesmans",
         icon: <FiUsers />,
       },
       {
@@ -183,12 +192,7 @@ function Sidebar({ role = "superadmin" }) {
     <div className="w-64 h-screen bg-white shadow-lg fixed flex flex-col">
       {/* লোগো/হেডার */}
       <div className="p-4 border-b">
-        <h1 className="text-xl font-bold text-blue-600">
-          {role === "superadmin"
-            ? "SuperAdmin"
-            : role.charAt(0).toUpperCase() + role.slice(1)}{" "}
-          Panel
-        </h1>
+        <h1 className="text-xl font-bold text-blue-600">Dashboard</h1>
       </div>
 
       {/* মেনু আইটেম */}
@@ -258,7 +262,12 @@ function Sidebar({ role = "superadmin" }) {
 
       {/* লগআউট বাটন */}
       <div className="p-4 border-t">
-        <button className="flex items-center gap-3 w-full p-3 text-red-500 hover:bg-red-50 rounded-lg">
+        <button
+          onClick={() => {
+            redirect("/");
+          }}
+          className="flex items-center gap-3 w-full p-3 text-red-500 hover:bg-red-50 rounded-lg"
+        >
           <FiLogOut />
           <span>Logout</span>
         </button>

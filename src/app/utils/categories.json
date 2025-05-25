@@ -1,0 +1,277 @@
+[
+  {
+    "name": "Electronics",
+    "description": "Latest gadgets and devices.",
+    "image": "/images/categories/electronics.jpg",
+    "specifications": [
+      "Brand",
+      "Model",
+      "Warranty",
+      "Power Source"
+    ]
+  },
+  {
+    "name": "Smartphones",
+    "description": "Mobile phones from top brands.",
+    "image": "/images/categories/smartphones.jpg",
+    "specifications": [
+      "Brand",
+      "RAM",
+      "Storage",
+      "Battery"
+    ]
+  },
+  {
+    "name": "Laptops",
+    "description": "Performance notebooks and ultrabooks.",
+    "image": "/images/categories/laptops.jpg",
+    "specifications": [
+      "Processor",
+      "RAM",
+      "Storage",
+      "Screen Size"
+    ]
+  },
+  {
+    "name": "Home Appliances",
+    "description": "Essential appliances for modern homes.",
+    "image": "/images/categories/home-appliances.jpg",
+    "specifications": [
+      "Type",
+      "Power",
+      "Energy Rating",
+      "Brand"
+    ]
+  },
+  {
+    "name": "Furniture",
+    "description": "Comfortable and stylish furniture.",
+    "image": "/images/categories/furniture.jpg",
+    "specifications": [
+      "Material",
+      "Color",
+      "Dimensions",
+      "Weight"
+    ]
+  },
+  {
+    "name": "Clothing",
+    "description": "Fashion for men, women, and children.",
+    "image": "/images/categories/clothing.jpg",
+    "specifications": [
+      "Size",
+      "Material",
+      "Color",
+      "Gender"
+    ]
+  },
+  {
+    "name": "Footwear",
+    "description": "Shoes, sandals, and boots for all occasions.",
+    "image": "/images/categories/footwear.jpg",
+    "specifications": [
+      "Size",
+      "Material",
+      "Color",
+      "Brand"
+    ]
+  },
+  {
+    "name": "Books",
+    "description": "Books across various genres and authors.",
+    "image": "/images/categories/books.jpg",
+    "specifications": [
+      "Author",
+      "Genre",
+      "Language",
+      "Publisher"
+    ]
+  },
+  {
+    "name": "Beauty Products",
+    "description": "Cosmetics and skincare essentials.",
+    "image": "/images/categories/beauty-products.jpg",
+    "specifications": [
+      "Brand",
+      "Skin Type",
+      "Volume",
+      "Ingredients"
+    ]
+  },
+  {
+    "name": "Health & Wellness",
+    "description": "Health supplements and wellness gear.",
+    "image": "/images/categories/health.jpg",
+    "specifications": [
+      "Type",
+      "Ingredients",
+      "Usage",
+      "Brand"
+    ]
+  },
+  {
+    "name": "Sports Equipment",
+    "description": "Gear for all kinds of sports and activities.",
+    "image": "/images/categories/sports.jpg",
+    "specifications": [
+      "Sport",
+      "Material",
+      "Size",
+      "Brand"
+    ]
+  },
+  {
+    "name": "Toys & Games",
+    "description": "Fun and educational toys for kids.",
+    "image": "/images/categories/toys.jpg",
+    "specifications": [
+      "Age Group",
+      "Material",
+      "Type",
+      "Brand"
+    ]
+  },
+  {
+    "name": "Kitchenware",
+    "description": "Tools and utensils for your kitchen.",
+    "image": "/images/categories/kitchenware.jpg",
+    "specifications": [
+      "Material",
+      "Type",
+      "Brand",
+      "Dishwasher Safe"
+    ]
+  },
+  {
+    "name": "Groceries",
+    "description": "Daily essentials and food items.",
+    "image": "/images/categories/groceries.jpg",
+    "specifications": [
+      "Category",
+      "Brand",
+      "Quantity",
+      "Expiry Date"
+    ]
+  },
+  {
+    "name": "Pet Supplies",
+    "description": "Everything your pet needs.",
+    "image": "/images/categories/pets.jpg",
+    "specifications": [
+      "Pet Type",
+      "Brand",
+      "Size",
+      "Material"
+    ]
+  },
+  {
+    "name": "Office Supplies",
+    "description": "Stationery and office essentials.",
+    "image": "/images/categories/office.jpg",
+    "specifications": [
+      "Type",
+      "Brand",
+      "Size",
+      "Color"
+    ]
+  },
+  {
+    "name": "Automotive",
+    "description": "Parts and accessories for vehicles.",
+    "image": "/images/categories/automotive.jpg",
+    "specifications": [
+      "Vehicle Type",
+      "Brand",
+      "Model",
+      "Warranty"
+    ]
+  },
+  {
+    "name": "Gaming",
+    "description": "Consoles, games, and accessories.",
+    "image": "/images/categories/gaming.jpg",
+    "specifications": [
+      "Platform",
+      "Genre",
+      "Brand",
+      "Age Rating"
+    ]
+  },
+  {
+    "name": "Music Instruments",
+    "description": "Instruments and accessories for musicians.",
+    "image": "/images/categories/music.jpg",
+    "specifications": [
+      "Instrument Type",
+      "Brand",
+      "Material",
+      "Size"
+    ]
+  },
+  {
+    "name": "Gardening",
+    "description": "Tools and supplies for gardening.",
+    "image": "/images/categories/gardening.jpg",
+    "specifications": [
+      "Tool Type",
+      "Material",
+      "Size",
+      "Brand"
+    ]
+  },
+  {
+    "name": "Watches",
+    "description": "Stylish and smart watches.",
+    "image": "/images/categories/watches.jpg",
+    "specifications": [
+      "Brand",
+      "Type",
+      "Material",
+      "Water Resistant"
+    ]
+  },
+  {
+    "name": "Jewelry",
+    "description": "Elegant pieces for every occasion.",
+    "image": "/images/categories/jewelry.jpg",
+    "specifications": [
+      "Material",
+      "Type",
+      "Gender",
+      "Brand"
+    ]
+  },
+  {
+    "name": "Baby Products",
+    "description": "Items for newborns and toddlers.",
+    "image": "/images/categories/baby.jpg",
+    "specifications": [
+      "Age Group",
+      "Material",
+      "Type",
+      "Brand"
+    ]
+  },
+  {
+    "name": "Art Supplies",
+    "description": "Paints, brushes, and more for artists.",
+    "image": "/images/categories/art.jpg",
+    "specifications": [
+      "Type",
+      "Brand",
+      "Color",
+      "Quantity"
+    ]
+  },
+  {
+    "name": "Travel Accessories",
+    "description": "Essential travel gear and luggage.",
+    "image": "/images/categories/travel.jpg",
+    "specifications": [
+      "Type",
+      "Brand",
+      "Size",
+      "Material"
+    ]
+  }
+]

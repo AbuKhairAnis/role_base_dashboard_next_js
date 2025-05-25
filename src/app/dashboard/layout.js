@@ -1,7 +1,7 @@
 import Sidebar from "../component/Dashboard/Sidebar/Sidebar";
 import Topbar from "../component/Dashboard/Topbar/Topbar";
 
-export default function RootLayout({ children }) {
+export default function DashboardLayout({ children }) {
   return (
     <div className="flex gap-4 m-auto">
       <div className="w-1/6 block">
